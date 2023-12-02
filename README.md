@@ -27,3 +27,6 @@ Expected Behavior:
 Constraints:
 - The system should be scalable to handle a growing number of subscribers without compromising performance.
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+  UML Diagram:
+  https://drive.google.com/file/d/1HI5nSw81pAu_EM878n7yiCiC6cA17X4O/view?usp=sharing
